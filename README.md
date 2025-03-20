@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Warda_Ali
+- 👋 Hi, I’m Warda_Ali
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on new inventions
