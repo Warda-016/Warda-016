@@ -2,8 +2,6 @@
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning python 
 - 💞️ I’m looking to collaborate on new inventions
-- 📫 How to reach me ...
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I can create awesome and super cool websites. i created a website for NASA Hackathon in just 2 days
 
 <!---
